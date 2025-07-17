@@ -21,4 +21,4 @@ jobs:
         with:
           apiKey: ${{ secrets.WPT_API_KEY }}
           urls: https://www.google.com/
-          label: 'GitHub Action Test'
+          label: 'GitHub Action Test-Saloni'
